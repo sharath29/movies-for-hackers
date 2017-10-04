@@ -38,6 +38,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 | [The Girl with the Dragon Tattoo](http://www.imdb.com/title/tt1568346/)                    | Thriller/Drama            | 2011 | 7.8/10 |
 | [Snowden](http://www.imdb.com/title/tt3774114/)                                            | Drama/Thriller            | 2016 | 7.3/10 |
 | [Algorithm](http://www.imdb.com/title/tt3293462/)                                          | Crime/Drama/Thriller      | 2014 | 4.8/10 |
+| [Source Code](http://www.imdb.com/title/tt0945513/)                                        | Drama/Thriller            | 2011 | 7.5/10
+|
 | [Who Am I](http://www.imdb.com/title/tt3042408/)                                           | Crime/Drama               | 2014 | 7.6/10 |
 | [Hacker's Game](http://www.imdb.com/title/tt3140724/)                                      | Drama/Thriller            | 2015 | 3.8/10 |
 | [Blackhat](http://www.imdb.com/title/tt2717822/)                                           | Drama/Thriller            | 2015 | 5.4/10 |
